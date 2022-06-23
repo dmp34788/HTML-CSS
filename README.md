@@ -1,5 +1,4 @@
 # HTML-CSS
 
-You can see my another website here: https://desirecartteam.000webhostapp.com/ .
-
-I haven't uploaded here bcoz it's size is more than 25MB.
+--> You can see my another website here: https://desirecartteam.000webhostapp.com/ .
+--> I haven't uploaded here bcoz it's size is more than 25MB.
